@@ -85,3 +85,23 @@ li{
 .caixa img {
     width: 170px;
 }
+
+.footer {  
+    padding: 45px 0;
+    background-color: #32b9cd;
+}
+
+.footer .container {
+    justify-content: center;
+}
+
+.footer p {
+    color: white;
+
+}
+
+li a {
+    color: #32b9cd;
+    text-decoration: none;
+    cursor: progress;
+}
